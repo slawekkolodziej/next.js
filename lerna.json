@@ -10,11 +10,7 @@
     },
     "publish": {
       "npmClient": "npm",
-      "allowBranch": [
-        "master",
-        "canary"
-      ],
-      "registry": "https://registry.npmjs.org/"
+      "registry": "https://npm.pkg.github.com/"
     }
   },
   "version": "9.5.4-canary.23"

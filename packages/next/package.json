@@ -1,11 +1,11 @@
 {
-  "name": "next",
-  "version": "9.5.4-canary.23",
-  "description": "The React Framework",
-  "main": "./dist/server/next.js",
-  "license": "MIT",
-  "repository": "vercel/next.js",
   "bugs": "https://github.com/vercel/next.js/issues",
+  "description": "The React Framework",
+  "license": "MIT",
+  "main": "./dist/server/next.js",
+  "name": "@slawekkolodziej/next",
+  "repository": "slawekkolodziej/next.js",
+  "version": "9.5.4-canary.23",
   "homepage": "https://nextjs.org",
   "types": "types/index.d.ts",
   "files": [
