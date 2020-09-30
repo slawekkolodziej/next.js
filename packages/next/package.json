@@ -5,7 +5,7 @@
   "main": "./dist/server/next.js",
   "name": "@slawekkolodziej/next",
   "repository": "slawekkolodziej/next.js",
-  "version": "9.5.4-canary.23",
+  "version": "9.5.4-bugfix.0",
   "homepage": "https://nextjs.org",
   "types": "types/index.d.ts",
   "files": [
