@@ -1,4 +1,4 @@
-import { FooProvider } from './FooContext'
+import { FooProvider } from '../FooContext'
 
 export default function MyApp({ Component, pageProps }) {
   return (

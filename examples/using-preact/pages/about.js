@@ -1,5 +1,5 @@
 import { useContext } from 'react'
-import { FooContext } from './FooContext'
+import { FooContext } from '../FooContext'
 
 export default function About() {
   const foo = useContext(FooContext)
