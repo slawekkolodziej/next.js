@@ -1,7 +1,6 @@
 on:
-  schedule:
-    # * is a special character in YAML so you have to quote this string
-    - cron: '0 0,12 * * *'
+  push:
+    branches: [canary]
 
 name: Test react@next
 
